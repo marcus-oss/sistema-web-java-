@@ -1,0 +1,6 @@
+create TABLE  IF NOT EXISTS USERS(
+username VARCHAR(250) NOT NULL primary key,
+password VARCHAR(250) NOT NULL,
+cpf VARCHAR(250) NOT NULL,
+email VARCHAR (250) NOT NULL
+);
