@@ -13,6 +13,7 @@
 
 <h2>Front-End</h2>
 <h2>React</h2>
+<h2>TypeScript</h2>
 <h2>taiilwind css</h2>
 
 
